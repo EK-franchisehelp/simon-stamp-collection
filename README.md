@@ -1,6 +1,6 @@
 Simon Stamp Collection App
 ---
 
-# About
+# About Simon
 
 Stuff about Simons Stamps here...
